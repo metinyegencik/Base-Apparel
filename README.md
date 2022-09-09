@@ -6,3 +6,4 @@
 
 Thanks for checking out this front-end coding challenge.
 
+### Live'ı buradan görebilirsiniz: https://metinyegencik.github.io/Base-Apparel/ ( Daha responsive değil ve js kodlarını eklemedim. Ekleyeceğim )
